@@ -1,6 +1,6 @@
 ![Masterhead](https://cdn.pixabay.com/photo/2016/08/03/09/04/universe-1566161_1280.jpg)
 <h1 align="center">Hi 👋, I'm Giulia</h1>  
-  <p align="center"> <img src="C:\Users\Hp\Downloads\_4ef4aee8-0e00-4348-aed1-221f077e38f2-photoaidcom-cropped.jpg" width="200" alt="Giuly"/> </p>
+  <p align="center"> <img src="https://raw.githubusercontent.com/queenofh3ll20/queenofh3ll20/main/icon.jpg" width="200" alt="Giuly"/> </p>
 <h3 align="center">A passionate developer from Italy</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=queenofh3ll20&color=blueviolet&base=125" alt="queenofh3ll20" /> </p>  
