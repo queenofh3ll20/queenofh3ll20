@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=queenofh3ll20&color=blueviolet&base=125" alt="queenofh3ll20" /> </p>  
 
+---
+
 <h3 align="left">Some informations:</h3> 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
