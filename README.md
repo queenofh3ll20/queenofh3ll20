@@ -8,12 +8,13 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <ul>
-      <li>🔭 I’m currently studying **Computer Science**</li>
-      <li>🌱 I’m currently learning **Programming languages, courses and other**</li>
-      <li>💬 Ask me about **IT arguments**</li>
-      <li>📫 How to reach me **example@gmail.com**</li>
-      <li>📄 Know about my experiences [I'm a computer enthusiast, navigating my way through algorithms and exciting ideas. Every line of code is a new adventure. 🚀💻](I'm a computer enthusiast, navigating my way through algorithms and exciting ideas. Every line of code is a new adventure. 🚀💻)</li>
-      <li>⚡ Fun fact **I don't know, you tell me. 🤔**</li>
+      <li>🔭 I’m currently studying Computer Science</li>
+      <li>🌱 I’m currently learning Programming languages, courses and other</li>
+      <li>💬 Ask me about IT arguments</li>
+      <li>📫 How to reach me example@gmail.com</li>
+      <li>📄 Know about my experiences:
+            I'm a computer enthusiast, navigating my way through algorithms and exciting ideas. Every line of code is a new adventure. 🚀💻</li>
+      <li>⚡ Fun fact: I don't know, you tell me. 🤔</li>
     </ul>
   </div>
 </div>
