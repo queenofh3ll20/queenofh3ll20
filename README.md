@@ -3,7 +3,7 @@
   <p align="center"> <img src="https://raw.githubusercontent.com/queenofh3ll20/queenofh3ll20/main/icon.jpg" width="200" alt="Giuly"/> </p>
 <h3 align="center">A passionate developer from Italy</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=queenofh3ll20&color=blueviolet&base=125" alt="queenofh3ll20" /> </p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=queenofh3ll20&color=blueviolet&base=445" alt="queenofh3ll20" /> </p>  
 
 ---
 
