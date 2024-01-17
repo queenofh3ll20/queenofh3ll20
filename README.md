@@ -11,7 +11,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <ul>
-      <li>🔭 I’m currently studying Computer Science</li>
+      <li>🔭| I’m currently studying Computer Science</li>
       <li>🌱 I’m currently learning Programming languages, courses and other</li>
       <li>💬 Ask me about IT arguments</li>
       <li>📫 How to reach me example@gmail.com</li>
