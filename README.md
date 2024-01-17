@@ -1,5 +1,5 @@
 ![Masterhead](https://cdn.pixabay.com/photo/2016/08/03/09/04/universe-1566161_1280.jpg)
-<h1 align="center">Hello everyone👋, I'm Giulia</h1>  
+<h1 align="center">Hi👋, I'm Giulia</h1>  
   <p align="center"> <img src="https://raw.githubusercontent.com/queenofh3ll20/queenofh3ll20/main/icon.jpg" width="200" alt="Giuly"/> </p>
 <h3 align="center">A passionate developer from Italy</h3>
 
