@@ -8,6 +8,8 @@
 ### Some informations:
 ---
 
+Currently immersed in the world of Computer Science, I find joy in exploring programming languages, engaging in courses, and tackling various IT topics. 
+
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <ul>
@@ -31,6 +33,8 @@
 <a href="https://linkedin.com/in/myname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myname" height="30" width="40" /></a>
 <a href="https://discord.gg/myname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="myname" height="30" width="40" /></a>
 </p> 
+
+You can reach out to me at example@gmail.com
 
 ### Tech Stack:
 ---
