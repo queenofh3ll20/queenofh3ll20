@@ -2,6 +2,7 @@
 <h1 align="center">Hi👋, I'm Giulia</h1>  
   <p align="center"> <img src="https://raw.githubusercontent.com/queenofh3ll20/queenofh3ll20/main/icon.jpg" width="200" alt="Giuly"/> </p>
 <h3 align="center">A passionate developer from Italy</h3>
+<h2 align="center">Welcome to my GitHub Profile!</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=queenofh3ll20&color=blueviolet&base=445" alt="queenofh3ll20" /> </p>  
 
