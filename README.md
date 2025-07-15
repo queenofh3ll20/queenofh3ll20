@@ -91,8 +91,7 @@ Whether you want to collaborate on a project, discuss the latest design trends, 
 
 ---
 
-<p align="center"><i>💫 "Building interfaces that feel like magic — because design should be felt, not just seen."</p>
-<p>Made with 💜, lots of ☕, and a sprinkle of ✨ magic</i></p>
+<p align="center">💫 "Building interfaces that feel like magic — because design should be felt, not just seen."</p>
 
 ---
 
