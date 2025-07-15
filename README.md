@@ -58,7 +58,7 @@
 - 🎨 I'm a **pixel perfectionist** – I can spend hours tweaking a single icon until it's absolutely perfect 😅
 - ✏️ I sketch my UI designs **on paper first**
 - 🔍 I analyze top apps just to learn their **design secrets** and understand what makes them brilliant
-- 🎧 Figma + Music = Flow mode activated! My most productive creative moments
+- 🎧 Figma + Music = creative mode activated! 
 - 🌙 There's something magical about coding in the quiet hours – **night owl vibes**
 
 <p align="center">
