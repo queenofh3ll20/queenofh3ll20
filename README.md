@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:FF00FF,20:00FFFF,40:FF00FF,60:00FFFF,80:FF00FF,100:FF00FF&height=190&section=header&text=Giulia's%20Profile%20&fontSize=26&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:14002B,20:291B5F,40:502A92,60:7A36C9,80:FF4772,100:FFDE6A&height=190&section=header&text=Giulia's%20Profile%20&fontSize=26&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <div align="center">
   <img src="https://github.com/queenofh3ll20/test/raw/main/icon2.png" width="300" alt="Giulia Logo" style="border-radius:50%;" />
@@ -96,5 +97,5 @@ Whether you want to collaborate on a project, discuss the latest design trends, 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0080,100:0080FF&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:14002B,20:291B5F,40:502A92,60:7A36C9,80:FF4772,100:FFDE6A&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=blinking" />
 </div>
