@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=queenofh3ll20&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Made%20with-💙%20%26%20coffee-00D9FF?style=for-the-badge" alt="Made with love"/>
+  <img src="https://img.shields.io/badge/Made%20with-love%20%26%20coffee-00D9FF?style=for-the-badge" alt="Made with love"/>
 </p>
 </div>
 
@@ -49,7 +49,7 @@
 - 🚀 Compete in UX Hackathons & Design Sprints
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:E100FF,100:7F00FF&height=100&section=footer&text=Keep%20coding!&fontSize=24&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:E100FF,100:7F00FF&height=100&section=footer&text=Keep%20coding!&fontSize=24&fontColor=00ffff&animation=twinkling" />
 </div>
 
 
