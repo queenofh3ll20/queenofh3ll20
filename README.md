@@ -34,12 +34,16 @@
 
 ## 🚀 Projects
 
-| Project                                                | Description                                                                                                                                                                                                                                                                          | Status              |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
-| [🎇 Vistorm](https://github.com/queenofh3ll20/vistorm) | Sound Impact on YouTube Shorts: Explore the influence of soundtracks on YouTube Shorts' engagement. This project analyzes how different audio choices affect user interaction, such as likes, comments, and views, providing insights for content creators to optimize their videos. | ✅ Live & Thriving   |
-| 📱 Secure Notes                                        | Android app for encrypted, offline note-taking with biometric security.                                                                                                                                                                                                              | 🔄 Work in Progress |
-| 🌍 Worby                                               | UI/UX design suite for 3 innovative tourist guide applications: This project delivers a comprehensive, user-centric design framework ensuring intuitive navigation, stunning visuals, and seamless interaction across distinct apps tailored to enrich every traveler's journey      | ✅ Design Complete   |
-| 💻 Web Programming Project                             | Fullstack masterpiece with smooth animations & accessibility focus                                                                                                                                                                                                                   | 🔄 In Development   |
+| Project | Description | Status |
+|--------|-------------|--------|
+| [<div align="center"><img src="https://raw.githubusercontent.com/queenofh3ll20/Vistorm/main/assets/images/vistorm_logo.jpg" width="100"/></div>](https://github.com/queenofh3ll20/vistorm) | Sound Impact on YouTube Shorts: Explore the influence of soundtracks on YouTube Shorts' engagement. This project analyzes how different audio choices affect user interaction, such as likes, comments, and views, providing insights for content creators to optimize their videos. | ✅ Live & Thriving |
+| 📱 Secure Notes | Android app for encrypted, offline note-taking with biometric security. | 🔄 Work in Progress |
+| [<div align="center"><img src="https://raw.githubusercontent.com/queenofh3ll20/test/main/wo_log.png" width="100"/></div>](https://github.com/queenofh3ll20/worby) | UI/UX design suite for 3 innovative tourist guide applications: This project delivers a comprehensive, user-centric design framework ensuring intuitive navigation, stunning visuals, and seamless interaction across distinct apps tailored to enrich every traveler's journey | ✅ Design Complete |
+| 💻 Web Programming Project | Fullstack masterpiece with smooth animations & accessibility focus | 🔄 In Development |
+
+
+
+
 
 
 ## 🎯 2025 Vision Board
