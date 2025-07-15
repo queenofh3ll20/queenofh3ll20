@@ -96,3 +96,6 @@ Made with 💜, lots of ☕, and a sprinkle of ✨ magic</i></p>
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0080,100:0080FF&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=blinking" />
+</div>
