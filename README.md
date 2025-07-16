@@ -101,5 +101,5 @@ Whether you want to collaborate on a project, discuss the latest design trends, 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:14002B,20:291B5F,40:502A92,60:7A36C9,80:FF4772,100:FFDE6A&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14002B,20:291B5F,40:502A92,60:7A36C9,80:FF4772,100:FFDE6A&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" />
 </div>
