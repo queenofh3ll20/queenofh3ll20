@@ -7,7 +7,7 @@
   <img src="https://github.com/queenofh3ll20/test/raw/main/icon2.png" width="300" alt="Giulia Logo" style="border-radius:50%;" />
   
   <h1>✨ Hey Universe, I'm Giulia! ✨</h1>
-  <h3>🚀 Code  & Design Sorceress 🎨</h3>
+  <h3>🚀 Code  & Design 🎨</h3>
   
 
 <p align="center">
