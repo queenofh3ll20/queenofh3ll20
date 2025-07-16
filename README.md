@@ -42,10 +42,6 @@
 | 💻 Web Programming Project | Fullstack masterpiece with smooth animations & accessibility focus | 🔄 In Development |
 
 
-
-
-
-
 ## 🎯 2025 Vision Board
 
 - ✅ Complete specialization in Web, Mobile & Virtualized Programming  
