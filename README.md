@@ -107,16 +107,7 @@ Whether you want to collaborate on a project, discuss the latest design trends, 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14002B,20:291B5F,40:502A92,60:7A36C9,80:FF4772,100:FFDE6A&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" />
 </div>
 
-<div align="center">
-  <div style="background: #000; border: 2px solid #00ff88; padding: 25px; border-radius: 5px; margin: 20px; max-width: 620px; box-shadow: 0 0 20px rgba(0,255,136,0.3);">
-    <h3 style="color: #00ff88; font-style: italic; margin-bottom: 15px; font-size: 17px; font-family: 'Courier New', monospace; text-shadow: 0 0 10px rgba(0,255,136,0.5);">
-      "Codificare è un superpotere. Usalo saggiamente."
-    </h3>
-    <p style="color: #00ff88; text-align: right; margin: 0; font-size: 12px; opacity: 0.8;">
-      - Anonimo
-    </p>
-  </div>
-</div>
+
 
 
 
